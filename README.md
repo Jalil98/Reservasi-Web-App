@@ -2,6 +2,7 @@
 1. Home Page
    - fitur menambahkan data customer
    - fitur untuk delete/edit data costumer
+     
      before:
      <img width="1729" height="542" alt="image" src="https://github.com/user-attachments/assets/107261c2-934c-4d3b-aa36-a6e4aecc4468" />
      after:
